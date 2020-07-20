@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "proplistings"
+    }
+  },
+  "defaultProject": "proplistings",
+  "cli": {
+    "analytics": "8d30ea5f-4405-41ba-aad8-bd0b6d44ad63"
+  }
 }
